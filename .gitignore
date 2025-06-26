@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+env/
+
+# Credentials - SECRET!
+# DO NOT COMMIT YOUR SERVICE ACCOUNT KEY.
+*.json
